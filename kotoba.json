@@ -1,0 +1,3296 @@
+[
+  {
+    "jp": "あさ",
+    "romaji": "asa",
+    "id": "pagi",
+    "bab": 1
+  },
+  {
+    "jp": "いいえ",
+    "romaji": "iie",
+    "id": "tidak",
+    "bab": 1
+  },
+  {
+    "jp": "いえ",
+    "romaji": "ie",
+    "id": "rumah",
+    "bab": 1
+  },
+  {
+    "jp": "いす",
+    "romaji": "isu",
+    "id": "kursi",
+    "bab": 1
+  },
+  {
+    "jp": "いぬ",
+    "romaji": "inu",
+    "id": "anjing",
+    "bab": 1
+  },
+  {
+    "jp": "うみ",
+    "romaji": "umi",
+    "id": "laut",
+    "bab": 1
+  },
+  {
+    "jp": "おちゃ（ちゃ）",
+    "romaji": "ocha(cha)",
+    "id": "teh/teh Jepang",
+    "bab": 1
+  },
+  {
+    "jp": "かぞく",
+    "romaji": "kazoku",
+    "id": "keluarga",
+    "bab": 1
+  },
+  {
+    "jp": "ご／～ご",
+    "romaji": "～go",
+    "id": "bahasa",
+    "bab": 1
+  },
+  {
+    "jp": "さかな／魚",
+    "romaji": "sakana",
+    "id": "ikan",
+    "bab": 1
+  },
+  {
+    "jp": "ざっし",
+    "romaji": "zasshi",
+    "id": "majalah",
+    "bab": 1
+  },
+  {
+    "jp": "そら",
+    "romaji": "sora",
+    "id": "langit",
+    "bab": 1
+  },
+  {
+    "jp": "卵",
+    "romaji": "tamago",
+    "id": "telur",
+    "bab": 1
+  },
+  {
+    "jp": "つくえ",
+    "romaji": "tsukue",
+    "id": "meja",
+    "bab": 1
+  },
+  {
+    "jp": "てんぷら",
+    "romaji": "tenpura",
+    "id": "tempura",
+    "bab": 1
+  },
+  {
+    "jp": "とうきょう／東京",
+    "romaji": "Tookyoo",
+    "id": "Tokyo",
+    "bab": 1
+  },
+  {
+    "jp": "とけい",
+    "romaji": "tokee",
+    "id": "arloji/jam",
+    "bab": 1
+  },
+  {
+    "jp": "にほんご",
+    "romaji": "Nihongo",
+    "id": "bahasa Jepang",
+    "bab": 1
+  },
+  {
+    "jp": "ねこ",
+    "romaji": "neko",
+    "id": "kucing",
+    "bab": 1
+  },
+  {
+    "jp": "はい",
+    "romaji": "hai",
+    "id": "ya",
+    "bab": 1
+  },
+  {
+    "jp": "ひらがな",
+    "romaji": "hiragana",
+    "id": "hiragana (huruf Jepang)",
+    "bab": 1
+  },
+  {
+    "jp": "ひる",
+    "romaji": "hiru",
+    "id": "siang",
+    "bab": 1
+  },
+  {
+    "jp": "ふじさん",
+    "romaji": "Fujisan",
+    "id": "Gunung Fuji",
+    "bab": 1
+  },
+  {
+    "jp": "ほん",
+    "romaji": "hon",
+    "id": "buku",
+    "bab": 1
+  },
+  {
+    "jp": "やさい",
+    "romaji": "yasai",
+    "id": "sayur",
+    "bab": 1
+  },
+  {
+    "jp": "やま",
+    "romaji": "yama",
+    "id": "gunung",
+    "bab": 1
+  },
+  {
+    "jp": "よる",
+    "romaji": "yoru",
+    "id": "malam",
+    "bab": 1
+  },
+  {
+    "jp": "れい",
+    "romaji": "ree",
+    "id": "contoh",
+    "bab": 1
+  },
+  {
+    "jp": "アメリカ",
+    "romaji": "Amerika",
+    "id": "Amerika",
+    "bab": 2
+  },
+  {
+    "jp": "イギリス",
+    "romaji": "Igirisu",
+    "id": "Inggris",
+    "bab": 2
+  },
+  {
+    "jp": "イタリア",
+    "romaji": "Itaria",
+    "id": "Italia",
+    "bab": 2
+  },
+  {
+    "jp": "インド",
+    "romaji": "Indo",
+    "id": "India",
+    "bab": 2
+  },
+  {
+    "jp": "インドネシア",
+    "romaji": "Indoneshia",
+    "id": "Indonesia",
+    "bab": 2
+  },
+  {
+    "jp": "エアコン",
+    "romaji": "eakon",
+    "id": "pendingin ruangan (AC)",
+    "bab": 2
+  },
+  {
+    "jp": "エジプト",
+    "romaji": "Ejiputo",
+    "id": "Mesir",
+    "bab": 2
+  },
+  {
+    "jp": "オーストラリア",
+    "romaji": "Oosutoraria",
+    "id": "Australia",
+    "bab": 2
+  },
+  {
+    "jp": "カタカナ",
+    "romaji": "katakana",
+    "id": "katakana (huruf Jepang)",
+    "bab": 2
+  },
+  {
+    "jp": "カナダ",
+    "romaji": "Kanada",
+    "id": "Kanada",
+    "bab": 2
+  },
+  {
+    "jp": "カメラ",
+    "romaji": "kamera",
+    "id": "kamera",
+    "bab": 2
+  },
+  {
+    "jp": "カラオケ",
+    "romaji": "karaoke",
+    "id": "karaoke",
+    "bab": 2
+  },
+  {
+    "jp": "クアラルンプール",
+    "romaji": "Kuararunpuuru",
+    "id": "Kuala Lumpur",
+    "bab": 2
+  },
+  {
+    "jp": "くに",
+    "romaji": "kuni",
+    "id": "negara",
+    "bab": 2
+  },
+  {
+    "jp": "コーヒー",
+    "romaji": "koohii",
+    "id": "kopi",
+    "bab": 2
+  },
+  {
+    "jp": "シャツ",
+    "romaji": "shatsu",
+    "id": "kemeja",
+    "bab": 2
+  },
+  {
+    "jp": "シャワー",
+    "romaji": "shawaa",
+    "id": "mandi dengan air pancuran",
+    "bab": 2
+  },
+  {
+    "jp": "ジュース",
+    "romaji": "juusu",
+    "id": "minuman jus",
+    "bab": 2
+  },
+  {
+    "jp": "スペイン",
+    "romaji": "Supein",
+    "id": "Spanyol",
+    "bab": 2
+  },
+  {
+    "jp": "ソファ",
+    "romaji": "sofa",
+    "id": "sofa",
+    "bab": 2
+  },
+  {
+    "jp": "タイ",
+    "romaji": "Tai",
+    "id": "Thailand",
+    "bab": 2
+  },
+  {
+    "jp": "タクシー",
+    "romaji": "takushii",
+    "id": "taksi",
+    "bab": 2
+  },
+  {
+    "jp": "テーブル",
+    "romaji": "teeburu",
+    "id": "meja",
+    "bab": 2
+  },
+  {
+    "jp": "テレビ",
+    "romaji": "terebi",
+    "id": "televisi",
+    "bab": 2
+  },
+  {
+    "jp": "ドイツ",
+    "romaji": "Doitsu",
+    "id": "Jerman",
+    "bab": 2
+  },
+  {
+    "jp": "トイレ",
+    "romaji": "toire",
+    "id": "toilet",
+    "bab": 2
+  },
+  {
+    "jp": "なまえ",
+    "romaji": "namae",
+    "id": "nama",
+    "bab": 2
+  },
+  {
+    "jp": "にほん／にっぽん／日本",
+    "romaji": "Nihon/Nippon",
+    "id": "Jepang",
+    "bab": 2
+  },
+  {
+    "jp": "パーティー",
+    "romaji": "paathii",
+    "id": "pesta",
+    "bab": 2
+  },
+  {
+    "jp": "パリ",
+    "romaji": "Pari",
+    "id": "Paris",
+    "bab": 2
+  },
+  {
+    "jp": "パン",
+    "romaji": "pan",
+    "id": "roti",
+    "bab": 2
+  },
+  {
+    "jp": "ハンガリー",
+    "romaji": "Hangarii",
+    "id": "Hongaria",
+    "bab": 2
+  },
+  {
+    "jp": "ピアノ",
+    "romaji": "piano",
+    "id": "piano",
+    "bab": 2
+  },
+  {
+    "jp": "フィリピン",
+    "romaji": "Firipin",
+    "id": "Filipina",
+    "bab": 2
+  },
+  {
+    "jp": "ブラジル",
+    "romaji": "Burajiru",
+    "id": "Brazil",
+    "bab": 2
+  },
+  {
+    "jp": "フランス",
+    "romaji": "Furansu",
+    "id": "Prancis",
+    "bab": 2
+  },
+  {
+    "jp": "ベッド",
+    "romaji": "beddo",
+    "id": "tempat tidur/ranjang/kasur",
+    "bab": 2
+  },
+  {
+    "jp": "ベトナム",
+    "romaji": "Betonamu",
+    "id": "Vietnam",
+    "bab": 2
+  },
+  {
+    "jp": "ホテル",
+    "romaji": "hoteru",
+    "id": "hotel",
+    "bab": 2
+  },
+  {
+    "jp": "まち",
+    "romaji": "machi",
+    "id": "kota",
+    "bab": 2
+  },
+  {
+    "jp": "マレーシア",
+    "romaji": "Mareeshia",
+    "id": "Malaysia",
+    "bab": 2
+  },
+  {
+    "jp": "マンガ",
+    "romaji": "manga",
+    "id": "komik",
+    "bab": 2
+  },
+  {
+    "jp": "メキシコ",
+    "romaji": "Mekishiko",
+    "id": "Meksiko",
+    "bab": 2
+  },
+  {
+    "jp": "レストラン",
+    "romaji": "resutoran",
+    "id": "restoran",
+    "bab": 2
+  },
+  {
+    "jp": "ロシア",
+    "romaji": "Roshia",
+    "id": "Rusia",
+    "bab": 2
+  },
+  {
+    "jp": "あの／あのう",
+    "romaji": "ano/anoo",
+    "id": "permisi",
+    "bab": 3
+  },
+  {
+    "jp": "アラビアご",
+    "romaji": "Arabiago",
+    "id": "bahasa Arab",
+    "bab": 3
+  },
+  {
+    "jp": "えいご",
+    "romaji": "eego",
+    "id": "bahasa Inggris",
+    "bab": 3
+  },
+  {
+    "jp": "エンジニア",
+    "romaji": "enjinia",
+    "id": "insinyur",
+    "bab": 3
+  },
+  {
+    "jp": "おくに（くに）",
+    "romaji": "okuni(kuni)",
+    "id": "negara",
+    "bab": 3
+  },
+  {
+    "jp": "おしごと（しごと）",
+    "romaji": "oshigoto(shigoto)",
+    "id": "pekerjaan",
+    "bab": 3
+  },
+  {
+    "jp": "かいしゃいん",
+    "romaji": "kaishain",
+    "id": "pegawai/karyawan",
+    "bab": 3
+  },
+  {
+    "jp": "がくせい",
+    "romaji": "gakusee",
+    "id": "siswa/pelajar",
+    "bab": 3
+  },
+  {
+    "jp": "かんこく",
+    "romaji": "Kankoku",
+    "id": "Korea Selatan",
+    "bab": 3
+  },
+  {
+    "jp": "かんこくご",
+    "romaji": "Kankokugo",
+    "id": "bahasa Korea",
+    "bab": 3
+  },
+  {
+    "jp": "きょうし",
+    "romaji": "kyooshi",
+    "id": "guru",
+    "bab": 3
+  },
+  {
+    "jp": "こうむいん",
+    "romaji": "koomuin",
+    "id": "pegawai negeri",
+    "bab": 3
+  },
+  {
+    "jp": "さん／～さん",
+    "romaji": "～san",
+    "id": "Bapak.../Ibu.../Nyonya.../Tuan.../Nona…",
+    "bab": 3
+  },
+  {
+    "jp": "じこしょうかい",
+    "romaji": "jiko-shookai",
+    "id": "memperkenalkan diri",
+    "bab": 3
+  },
+  {
+    "jp": "しゅふ",
+    "romaji": "shufu",
+    "id": "ibu rumah tangga",
+    "bab": 3
+  },
+  {
+    "jp": "じん／～じん",
+    "romaji": "～jin",
+    "id": "orang …",
+    "bab": 3
+  },
+  {
+    "jp": "すごい",
+    "romaji": "sugoi",
+    "id": "hebat",
+    "bab": 3
+  },
+  {
+    "jp": "すこし",
+    "romaji": "sukoshi",
+    "id": "sedikit",
+    "bab": 3
+  },
+  {
+    "jp": "せんせい",
+    "romaji": "sensee",
+    "id": "guru/pengajar",
+    "bab": 3
+  },
+  {
+    "jp": "ちゅうごく",
+    "romaji": "Chuugoku",
+    "id": "Tiongkok",
+    "bab": 3
+  },
+  {
+    "jp": "ちゅうごくご",
+    "romaji": "Chuugokugo",
+    "id": "bahasa Mandarin",
+    "bab": 3
+  },
+  {
+    "jp": "ちゅうごくじん",
+    "romaji": "Chuugokujin",
+    "id": "orang Tionghoa",
+    "bab": 3
+  },
+  {
+    "jp": "できます",
+    "romaji": "dekimasu",
+    "id": "mampu/dapat",
+    "bab": 3
+  },
+  {
+    "jp": "ドイツご",
+    "romaji": "Doitsugo",
+    "id": "bahasa Jerman",
+    "bab": 3
+  },
+  {
+    "jp": "なに／なん",
+    "romaji": "nani",
+    "id": "apa",
+    "bab": 3
+  },
+  {
+    "jp": "なにご",
+    "romaji": "nanigo",
+    "id": "bahasa apa",
+    "bab": 3
+  },
+  {
+    "jp": "にほんじん",
+    "romaji": "Nihonjin",
+    "id": "orang Jepang",
+    "bab": 3
+  },
+  {
+    "jp": "ふたり",
+    "romaji": "futari",
+    "id": "dua orang",
+    "bab": 3
+  },
+  {
+    "jp": "フランスご",
+    "romaji": "Furansugo",
+    "id": "bahasa Prancis",
+    "bab": 3
+  },
+  {
+    "jp": "フランスじん",
+    "romaji": "Furansujin",
+    "id": "orang Prancis",
+    "bab": 3
+  },
+  {
+    "jp": "マレーシアじん",
+    "romaji": "Mareeshiajin",
+    "id": "orang Malaysia",
+    "bab": 3
+  },
+  {
+    "jp": "わたし",
+    "romaji": "watashi",
+    "id": "saya",
+    "bab": 3
+  },
+  {
+    "jp": "あに",
+    "romaji": "ani",
+    "id": "kakak laki-laki",
+    "bab": 4
+  },
+  {
+    "jp": "あね",
+    "romaji": "ane",
+    "id": "kakak perempuan",
+    "bab": 4
+  },
+  {
+    "jp": "います",
+    "romaji": "imasu",
+    "id": "ada",
+    "bab": 4
+  },
+  {
+    "jp": "いもうと",
+    "romaji": "imooto",
+    "id": "adik perempuan (saya)",
+    "bab": 4
+  },
+  {
+    "jp": "いもうとさん",
+    "romaji": "imootosan",
+    "id": "adik perempuan (orang lain)",
+    "bab": 4
+  },
+  {
+    "jp": "おおさか",
+    "romaji": "Oosaka",
+    "id": "Osaka",
+    "bab": 4
+  },
+  {
+    "jp": "おかあさん",
+    "romaji": "okaasan",
+    "id": "ibu (sebutan untuk ibu orang lain)",
+    "bab": 4
+  },
+  {
+    "jp": "おきなわ",
+    "romaji": "Okinawa",
+    "id": "Okinawa",
+    "bab": 4
+  },
+  {
+    "jp": "おくさん",
+    "romaji": "okusan",
+    "id": "istri (sebutan untuk istri orang lain)",
+    "bab": 4
+  },
+  {
+    "jp": "おこさん",
+    "romaji": "okosan",
+    "id": "anak (sebutan untuk anak orang lain)",
+    "bab": 4
+  },
+  {
+    "jp": "おっと",
+    "romaji": "otto",
+    "id": "suami (saya)",
+    "bab": 4
+  },
+  {
+    "jp": "おとうさん",
+    "romaji": "otoosan",
+    "id": "ayah (sebutan untuk ayah orang lain)",
+    "bab": 4
+  },
+  {
+    "jp": "おとうと",
+    "romaji": "otooto",
+    "id": "adik laki-laki (saya)",
+    "bab": 4
+  },
+  {
+    "jp": "おとうとさん",
+    "romaji": "otootosan",
+    "id": "adik laki-laki (orang lain)",
+    "bab": 4
+  },
+  {
+    "jp": "おとこのこ",
+    "romaji": "otoko-no-ko",
+    "id": "anak laki-laki",
+    "bab": 4
+  },
+  {
+    "jp": "おとこのひと",
+    "romaji": "otoko-no-hito",
+    "id": "pria dewasa",
+    "bab": 4
+  },
+  {
+    "jp": "おんなのこ",
+    "romaji": "onna-no-ko",
+    "id": "anak perempuan",
+    "bab": 4
+  },
+  {
+    "jp": "おんなのひと",
+    "romaji": "onna-no-hito",
+    "id": "perempuan dewasa/wanita",
+    "bab": 4
+  },
+  {
+    "jp": "かわいい",
+    "romaji": "kawaii",
+    "id": "imut/manis",
+    "bab": 4
+  },
+  {
+    "jp": "ご／五",
+    "romaji": "go",
+    "id": "lima",
+    "bab": 4
+  },
+  {
+    "jp": "ごしゅじん",
+    "romaji": "goshujin",
+    "id": "suami (orang lain)",
+    "bab": 4
+  },
+  {
+    "jp": "こども",
+    "romaji": "kodomo",
+    "id": "anak",
+    "bab": 4
+  },
+  {
+    "jp": "この",
+    "romaji": "kono",
+    "id": "...ini",
+    "bab": 4
+  },
+  {
+    "jp": "さい／～さい",
+    "romaji": "～sai",
+    "id": "umur/usia",
+    "bab": 4
+  },
+  {
+    "jp": "さん／三",
+    "romaji": "san",
+    "id": "tiga",
+    "bab": 4
+  },
+  {
+    "jp": "だれ",
+    "romaji": "dare",
+    "id": "siapa",
+    "bab": 4
+  },
+  {
+    "jp": "ちち",
+    "romaji": "chichi",
+    "id": "ayah",
+    "bab": 4
+  },
+  {
+    "jp": "つま",
+    "romaji": "tsuma",
+    "id": "istri (saya)",
+    "bab": 4
+  },
+  {
+    "jp": "どこ",
+    "romaji": "doko",
+    "id": "(di) mana",
+    "bab": 4
+  },
+  {
+    "jp": "なんさい",
+    "romaji": "nan-sai",
+    "id": "umur berapa",
+    "bab": 4
+  },
+  {
+    "jp": "なんにん",
+    "romaji": "nan-nin",
+    "id": "berapa orang",
+    "bab": 4
+  },
+  {
+    "jp": "にん／～にん",
+    "romaji": "～nin",
+    "id": "(satuan hitung untuk menghitung orang)",
+    "bab": 4
+  },
+  {
+    "jp": "はは",
+    "romaji": "haha",
+    "id": "ibu",
+    "bab": 4
+  },
+  {
+    "jp": "ひとり",
+    "romaji": "hitori",
+    "id": "satu orang",
+    "bab": 4
+  },
+  {
+    "jp": "ひろしま",
+    "romaji": "Hiroshima",
+    "id": "Hiroshima",
+    "bab": 4
+  },
+  {
+    "jp": "ふーん",
+    "romaji": "fuun",
+    "id": "hmm…",
+    "bab": 4
+  },
+  {
+    "jp": "ほっかいどう",
+    "romaji": "Hokkaidoo",
+    "id": "Hokkaido",
+    "bab": 4
+  },
+  {
+    "jp": "よん／四",
+    "romaji": "yon",
+    "id": "empat",
+    "bab": 4
+  },
+  {
+    "jp": "ろく／六",
+    "romaji": "roku",
+    "id": "enam",
+    "bab": 4
+  },
+  {
+    "jp": "わかい",
+    "romaji": "wakai",
+    "id": "muda",
+    "bab": 4
+  },
+  {
+    "jp": "わたしたち",
+    "romaji": "watashitachi",
+    "id": "kami/kita",
+    "bab": 4
+  },
+  {
+    "jp": "あさごはん",
+    "romaji": "asa-gohan",
+    "id": "sarapan",
+    "bab": 5
+  },
+  {
+    "jp": "あまり",
+    "romaji": "amari",
+    "id": "tidak begitu",
+    "bab": 5
+  },
+  {
+    "jp": "いつも",
+    "romaji": "itsumo",
+    "id": "selalu",
+    "bab": 5
+  },
+  {
+    "jp": "ぎゅうにゅう",
+    "romaji": "gyuunyuu",
+    "id": "susu sapi",
+    "bab": 5
+  },
+  {
+    "jp": "くだもの",
+    "romaji": "kudamono",
+    "id": "buah-buahan",
+    "bab": 5
+  },
+  {
+    "jp": "こうちゃ",
+    "romaji": "koocha",
+    "id": "teh hitam (English tea )",
+    "bab": 5
+  },
+  {
+    "jp": "ごはん",
+    "romaji": "gohan",
+    "id": "nasi",
+    "bab": 5
+  },
+  {
+    "jp": "すき（な）",
+    "romaji": "suki(na)",
+    "id": "suka",
+    "bab": 5
+  },
+  {
+    "jp": "たべます／食べます",
+    "romaji": "tabemasu",
+    "id": "makan",
+    "bab": 5
+  },
+  {
+    "jp": "たべもの／（食べもの）",
+    "romaji": "tabemono",
+    "id": "makanan",
+    "bab": 5
+  },
+  {
+    "jp": "にく／肉",
+    "romaji": "niku",
+    "id": "daging",
+    "bab": 5
+  },
+  {
+    "jp": "のみます／飲みます",
+    "romaji": "nomimasu",
+    "id": "minum",
+    "bab": 5
+  },
+  {
+    "jp": "のみもの（飲みもの）",
+    "romaji": "nomimono",
+    "id": "minuman",
+    "bab": 5
+  },
+  {
+    "jp": "ビール",
+    "romaji": "biiru",
+    "id": "bir",
+    "bab": 5
+  },
+  {
+    "jp": "みず／水",
+    "romaji": "mizu",
+    "id": "air",
+    "bab": 5
+  },
+  {
+    "jp": "みそしる",
+    "romaji": "misoshiru",
+    "id": "sup miso",
+    "bab": 5
+  },
+  {
+    "jp": "よく",
+    "romaji": "yoku",
+    "id": "sering",
+    "bab": 5
+  },
+  {
+    "jp": "ワイン",
+    "romaji": "wain",
+    "id": "minuman anggur",
+    "bab": 5
+  },
+  {
+    "jp": "あります",
+    "romaji": "arimasu",
+    "id": "ada",
+    "bab": 6
+  },
+  {
+    "jp": "いきます／行きます",
+    "romaji": "ikimasu",
+    "id": "pergi",
+    "bab": 6
+  },
+  {
+    "jp": "うどん",
+    "romaji": "udon",
+    "id": "mi udon",
+    "bab": 6
+  },
+  {
+    "jp": "おいしい",
+    "romaji": "oishii",
+    "id": "enak",
+    "bab": 6
+  },
+  {
+    "jp": "おかね（かね）／お金（金）",
+    "romaji": "okane(kane)",
+    "id": "uang",
+    "bab": 6
+  },
+  {
+    "jp": "おすし（すし）",
+    "romaji": "osushi",
+    "id": "sushi",
+    "bab": 6
+  },
+  {
+    "jp": "おそい",
+    "romaji": "osoi",
+    "id": "lambat/terlambat",
+    "bab": 6
+  },
+  {
+    "jp": "おそば（そば）",
+    "romaji": "osoba(soba)",
+    "id": "mi soba",
+    "bab": 6
+  },
+  {
+    "jp": "カレー",
+    "romaji": "karee",
+    "id": "kari/kare",
+    "bab": 6
+  },
+  {
+    "jp": "きょう",
+    "romaji": "kyoo",
+    "id": "hari ini",
+    "bab": 6
+  },
+  {
+    "jp": "きらい（な）",
+    "romaji": "kirai(na)",
+    "id": "benci",
+    "bab": 6
+  },
+  {
+    "jp": "コーヒーショップ",
+    "romaji": "koohii-shoppu",
+    "id": "kedai kopi/kafe",
+    "bab": 6
+  },
+  {
+    "jp": "サンドイッチ",
+    "romaji": "sandoitchi",
+    "id": "sandwich /roti berlapis",
+    "bab": 6
+  },
+  {
+    "jp": "じかん",
+    "romaji": "jikan",
+    "id": "jam",
+    "bab": 6
+  },
+  {
+    "jp": "じゃあ",
+    "romaji": "jaa",
+    "id": "kalau begitu…",
+    "bab": 6
+  },
+  {
+    "jp": "すし",
+    "romaji": "sushi",
+    "id": "sushi",
+    "bab": 6
+  },
+  {
+    "jp": "そば",
+    "romaji": "soba",
+    "id": "mi soba",
+    "bab": 6
+  },
+  {
+    "jp": "たかい",
+    "romaji": "takai",
+    "id": "mahal",
+    "bab": 6
+  },
+  {
+    "jp": "バナナ",
+    "romaji": "banana",
+    "id": "pisang",
+    "bab": 6
+  },
+  {
+    "jp": "はやい",
+    "romaji": "hayai",
+    "id": "cepat",
+    "bab": 6
+  },
+  {
+    "jp": "ハンバーガー",
+    "romaji": "hanbaagaa",
+    "id": "hamburger",
+    "bab": 6
+  },
+  {
+    "jp": "ピザ",
+    "romaji": "piza",
+    "id": "pizza",
+    "bab": 6
+  },
+  {
+    "jp": "ひるごはん",
+    "romaji": "hiru-gohan",
+    "id": "makan siang",
+    "bab": 6
+  },
+  {
+    "jp": "まずい",
+    "romaji": "mazui",
+    "id": "tidak enak/tidak menggugah selera",
+    "bab": 6
+  },
+  {
+    "jp": "やさん／～や（さん）",
+    "romaji": "～ya(san)",
+    "id": "toko …",
+    "bab": 6
+  },
+  {
+    "jp": "やすい",
+    "romaji": "yasui",
+    "id": "murah",
+    "bab": 6
+  },
+  {
+    "jp": "ラーメン",
+    "romaji": "raamen",
+    "id": "mi ramen",
+    "bab": 6
+  },
+  {
+    "jp": "りょうり",
+    "romaji": "ryoori",
+    "id": "masakan",
+    "bab": 6
+  },
+  {
+    "jp": "あたらしい／新しい",
+    "romaji": "atarashii",
+    "id": "baru",
+    "bab": 7
+  },
+  {
+    "jp": "アパート",
+    "romaji": "apaato",
+    "id": "apartemen",
+    "bab": 7
+  },
+  {
+    "jp": "いくつ",
+    "romaji": "ikutsu",
+    "id": "berapa (untuk benda)",
+    "bab": 7
+  },
+  {
+    "jp": "いち／一",
+    "romaji": "ichi",
+    "id": "satu",
+    "bab": 7
+  },
+  {
+    "jp": "いっこだて",
+    "romaji": "ikkodate",
+    "id": "bangunan satu rumah",
+    "bab": 7
+  },
+  {
+    "jp": "おおきい／大きい",
+    "romaji": "ookii",
+    "id": "besar",
+    "bab": 7
+  },
+  {
+    "jp": "おとこ",
+    "romaji": "otoko",
+    "id": "laki-laki/pria",
+    "bab": 7
+  },
+  {
+    "jp": "おんな",
+    "romaji": "onna",
+    "id": "perempuan",
+    "bab": 7
+  },
+  {
+    "jp": "きょうと",
+    "romaji": "Kyooto",
+    "id": "Kyoto",
+    "bab": 7
+  },
+  {
+    "jp": "くらい",
+    "romaji": "kurai",
+    "id": "gelap",
+    "bab": 7
+  },
+  {
+    "jp": "こうえん",
+    "romaji": "kooen",
+    "id": "taman",
+    "bab": 7
+  },
+  {
+    "jp": "せまい",
+    "romaji": "semai",
+    "id": "sempit",
+    "bab": 7
+  },
+  {
+    "jp": "ゼロ",
+    "romaji": "zero",
+    "id": "nol",
+    "bab": 7
+  },
+  {
+    "jp": "ちいさい／小さい",
+    "romaji": "chiisai",
+    "id": "kecil",
+    "bab": 7
+  },
+  {
+    "jp": "ちかく",
+    "romaji": "chikaku",
+    "id": "dekat",
+    "bab": 7
+  },
+  {
+    "jp": "デパート",
+    "romaji": "depaato",
+    "id": "pusat perbelanjaan",
+    "bab": 7
+  },
+  {
+    "jp": "でも",
+    "romaji": "demo",
+    "id": "tetapi/tapi",
+    "bab": 7
+  },
+  {
+    "jp": "ともだち",
+    "romaji": "tomodachi",
+    "id": "teman",
+    "bab": 7
+  },
+  {
+    "jp": "に／二",
+    "romaji": "ni",
+    "id": "dua",
+    "bab": 7
+  },
+  {
+    "jp": "ひとつ(１つ／一つ)",
+    "romaji": "hitotsu",
+    "id": "satu buah",
+    "bab": 7
+  },
+  {
+    "jp": "ひろい",
+    "romaji": "hiroi",
+    "id": "luas",
+    "bab": 7
+  },
+  {
+    "jp": "ふたつ(２つ／二つ)",
+    "romaji": "futatsu",
+    "id": "dua buah",
+    "bab": 7
+  },
+  {
+    "jp": "ふるい／古い",
+    "romaji": "furui",
+    "id": "tua/lama",
+    "bab": 7
+  },
+  {
+    "jp": "ペット",
+    "romaji": "petto",
+    "id": "binatang peliharaan",
+    "bab": 7
+  },
+  {
+    "jp": "へや",
+    "romaji": "heya",
+    "id": "kamar/ruangan",
+    "bab": 7
+  },
+  {
+    "jp": "マンション",
+    "romaji": "manshon",
+    "id": "kondominium/apartemen mewah",
+    "bab": 7
+  },
+  {
+    "jp": "みっつ(３つ／三つ）",
+    "romaji": "mittsu",
+    "id": "tiga buah",
+    "bab": 7
+  },
+  {
+    "jp": "やすみ(休み）",
+    "romaji": "yasumi",
+    "id": "libur/liburan",
+    "bab": 7
+  },
+  {
+    "jp": "あ",
+    "romaji": "a",
+    "id": "ah",
+    "bab": 8
+  },
+  {
+    "jp": "いい",
+    "romaji": "ii",
+    "id": "bagus/baik",
+    "bab": 8
+  },
+  {
+    "jp": "うえ",
+    "romaji": "ue",
+    "id": "atas",
+    "bab": 8
+  },
+  {
+    "jp": "ええと／ええっと",
+    "romaji": "eeto/eetto",
+    "id": "hmmm…",
+    "bab": 8
+  },
+  {
+    "jp": "カップ",
+    "romaji": "kappu",
+    "id": "cangkir",
+    "bab": 8
+  },
+  {
+    "jp": "きれい（な）",
+    "romaji": "kiree(na)",
+    "id": "indah",
+    "bab": 8
+  },
+  {
+    "jp": "げんかん",
+    "romaji": "genkan",
+    "id": "(area) pintu masuk",
+    "bab": 8
+  },
+  {
+    "jp": "こちら",
+    "romaji": "kochira",
+    "id": "sebelah sini (bentuk sopan/sama dengan ここ)",
+    "bab": 8
+  },
+  {
+    "jp": "これ",
+    "romaji": "kore",
+    "id": "ini",
+    "bab": 8
+  },
+  {
+    "jp": "した",
+    "romaji": "shita",
+    "id": "bawah",
+    "bab": 8
+  },
+  {
+    "jp": "しゃしん",
+    "romaji": "shashin",
+    "id": "foto",
+    "bab": 8
+  },
+  {
+    "jp": "だいどころ",
+    "romaji": "daidokoro",
+    "id": "dapur",
+    "bab": 8
+  },
+  {
+    "jp": "たな",
+    "romaji": "tana",
+    "id": "rak",
+    "bab": 8
+  },
+  {
+    "jp": "どうぞ",
+    "romaji": "doozo",
+    "id": "silakan",
+    "bab": 8
+  },
+  {
+    "jp": "どうも",
+    "romaji": "doomo",
+    "id": "(terima kasih) banyak",
+    "bab": 8
+  },
+  {
+    "jp": "なか",
+    "romaji": "naka",
+    "id": "dalam",
+    "bab": 8
+  },
+  {
+    "jp": "にわ",
+    "romaji": "niwa",
+    "id": "pekarangan/kebun/taman",
+    "bab": 8
+  },
+  {
+    "jp": "にんぎょう",
+    "romaji": "ningyoo",
+    "id": "boneka",
+    "bab": 8
+  },
+  {
+    "jp": "はこ",
+    "romaji": "hako",
+    "id": "kotak",
+    "bab": 8
+  },
+  {
+    "jp": "よこ",
+    "romaji": "yoko",
+    "id": "samping",
+    "bab": 8
+  },
+  {
+    "jp": "あびます",
+    "romaji": "abimasu",
+    "id": "mandi",
+    "bab": 9
+  },
+  {
+    "jp": "いそがしい",
+    "romaji": "isogashii",
+    "id": "sibuk",
+    "bab": 9
+  },
+  {
+    "jp": "いつ",
+    "romaji": "itsu",
+    "id": "kapan",
+    "bab": 9
+  },
+  {
+    "jp": "いま",
+    "romaji": "ima",
+    "id": "sekarang",
+    "bab": 9
+  },
+  {
+    "jp": "うち",
+    "romaji": "uchi",
+    "id": "rumah",
+    "bab": 9
+  },
+  {
+    "jp": "うんどう",
+    "romaji": "undoo",
+    "id": "olahraga",
+    "bab": 9
+  },
+  {
+    "jp": "ええ",
+    "romaji": "ee",
+    "id": "ya/oke/baiklah",
+    "bab": 9
+  },
+  {
+    "jp": "おきます",
+    "romaji": "okimasu",
+    "id": "bangun",
+    "bab": 9
+  },
+  {
+    "jp": "おんがく",
+    "romaji": "ongaku",
+    "id": "musik",
+    "bab": 9
+  },
+  {
+    "jp": "かいしゃ",
+    "romaji": "kaisha",
+    "id": "kantor",
+    "bab": 9
+  },
+  {
+    "jp": "かえります",
+    "romaji": "kaerimasu",
+    "id": "pulang",
+    "bab": 9
+  },
+  {
+    "jp": "かきます／書きます",
+    "romaji": "kakimasu",
+    "id": "menulis",
+    "bab": 9
+  },
+  {
+    "jp": "かじ",
+    "romaji": "kaji",
+    "id": "pekerjaan rumah tangga",
+    "bab": 9
+  },
+  {
+    "jp": "がっこう",
+    "romaji": "gakkoo",
+    "id": "sekolah",
+    "bab": 9
+  },
+  {
+    "jp": "ききます／聞きます",
+    "romaji": "kikimasu",
+    "id": "mendengar",
+    "bab": 9
+  },
+  {
+    "jp": "く／九",
+    "romaji": "ku",
+    "id": "sembilan",
+    "bab": 9
+  },
+  {
+    "jp": "ごご",
+    "romaji": "gogo",
+    "id": "setelah tengah hari sampai malam hari/PM",
+    "bab": 9
+  },
+  {
+    "jp": "ごぜん",
+    "romaji": "gozen",
+    "id": "pagi hari (sebelum tengah hari)/AM",
+    "bab": 9
+  },
+  {
+    "jp": "ごろ／～ごろ",
+    "romaji": "～goro",
+    "id": "kira-kira…",
+    "bab": 9
+  },
+  {
+    "jp": "さんぽ",
+    "romaji": "sanpo",
+    "id": "jalan-jalan",
+    "bab": 9
+  },
+  {
+    "jp": "じ／～時",
+    "romaji": "～ji",
+    "id": "jam.../pukul…",
+    "bab": 9
+  },
+  {
+    "jp": "しごと",
+    "romaji": "shigoto",
+    "id": "pekerjaan",
+    "bab": 9
+  },
+  {
+    "jp": "しち／七",
+    "romaji": "shichi",
+    "id": "tujuh",
+    "bab": 9
+  },
+  {
+    "jp": "します",
+    "romaji": "shimasu",
+    "id": "melakukan",
+    "bab": 9
+  },
+  {
+    "jp": "じゅう／十",
+    "romaji": "juu",
+    "id": "sepuluh",
+    "bab": 9
+  },
+  {
+    "jp": "しんぶん(新聞）",
+    "romaji": "shinbun",
+    "id": "koran/surat kabar",
+    "bab": 9
+  },
+  {
+    "jp": "スポーツジム",
+    "romaji": "supootsu-jimu",
+    "id": "ruang olahraga (gym )",
+    "bab": 9
+  },
+  {
+    "jp": "せいかつ",
+    "romaji": "seekatsu",
+    "id": "hidup/kehidupan",
+    "bab": 9
+  },
+  {
+    "jp": "なんじ",
+    "romaji": "nan-ji",
+    "id": "jam berapa/pukul berapa",
+    "bab": 9
+  },
+  {
+    "jp": "にっき",
+    "romaji": "nikki",
+    "id": "buku harian",
+    "bab": 9
+  },
+  {
+    "jp": "ニュージーランド",
+    "romaji": "Nyuujiirando",
+    "id": "Selandia Baru",
+    "bab": 9
+  },
+  {
+    "jp": "ニューヨーク",
+    "romaji": "Nyuuyooku",
+    "id": "New York",
+    "bab": 9
+  },
+  {
+    "jp": "ねます",
+    "romaji": "nemasu",
+    "id": "tidur",
+    "bab": 9
+  },
+  {
+    "jp": "はあ",
+    "romaji": "haa",
+    "id": "hmm .../ya ...",
+    "bab": 9
+  },
+  {
+    "jp": "はいります",
+    "romaji": "hairimasu",
+    "id": "masuk",
+    "bab": 9
+  },
+  {
+    "jp": "はち／八",
+    "romaji": "hachi",
+    "id": "delapan",
+    "bab": 9
+  },
+  {
+    "jp": "はん／～半",
+    "romaji": "～han",
+    "id": "setengah ... (untuk waktu)",
+    "bab": 9
+  },
+  {
+    "jp": "ばんごはん",
+    "romaji": "ban-gohan",
+    "id": "makan malam",
+    "bab": 9
+  },
+  {
+    "jp": "ふん／ぷん／～分",
+    "romaji": "～fun/pun",
+    "id": "… menit",
+    "bab": 9
+  },
+  {
+    "jp": "べんきょうします",
+    "romaji": "benkyooshimasu",
+    "id": "belajar",
+    "bab": 9
+  },
+  {
+    "jp": "まいにち",
+    "romaji": "mainichi",
+    "id": "setiap hari",
+    "bab": 9
+  },
+  {
+    "jp": "まず",
+    "romaji": "mazu",
+    "id": "pertama-tama/pertama",
+    "bab": 9
+  },
+  {
+    "jp": "みます／見ます",
+    "romaji": "mimasu",
+    "id": "melihat",
+    "bab": 9
+  },
+  {
+    "jp": "よみます／読みます",
+    "romaji": "yomimasu",
+    "id": "membaca",
+    "bab": 9
+  },
+  {
+    "jp": "あした",
+    "romaji": "ashita",
+    "id": "besok",
+    "bab": 10
+  },
+  {
+    "jp": "インターネット",
+    "romaji": "intaanetto",
+    "id": "internet",
+    "bab": 10
+  },
+  {
+    "jp": "かいもの／買いもの",
+    "romaji": "kaimono",
+    "id": "belanja",
+    "bab": 10
+  },
+  {
+    "jp": "がつ／～月",
+    "romaji": "～gatsu",
+    "id": "bulan … (nama bulan)",
+    "bab": 10
+  },
+  {
+    "jp": "かようび／火よう日",
+    "romaji": "kayoobi",
+    "id": "hari Selasa",
+    "bab": 10
+  },
+  {
+    "jp": "きのう",
+    "romaji": "kinoo",
+    "id": "kemarin",
+    "bab": 10
+  },
+  {
+    "jp": "きます／来ます",
+    "romaji": "kimasu",
+    "id": "datang",
+    "bab": 10
+  },
+  {
+    "jp": "きもち",
+    "romaji": "kimochi",
+    "id": "perasaan",
+    "bab": 10
+  },
+  {
+    "jp": "きんようび／金よう日",
+    "romaji": "kin'yoobi",
+    "id": "hari Jumat",
+    "bab": 10
+  },
+  {
+    "jp": "ぐらい／～ぐらい",
+    "romaji": "～gurai",
+    "id": "kira-kira",
+    "bab": 10
+  },
+  {
+    "jp": "げつようび／月よう日",
+    "romaji": "getsuyoobi",
+    "id": "hari Senin",
+    "bab": 10
+  },
+  {
+    "jp": "コース",
+    "romaji": "koosu",
+    "id": "kursus",
+    "bab": 10
+  },
+  {
+    "jp": "コンサート",
+    "romaji": "konsaato",
+    "id": "konser",
+    "bab": 10
+  },
+  {
+    "jp": "こんしゅう",
+    "romaji": "konshuu",
+    "id": "minggu ini",
+    "bab": 10
+  },
+  {
+    "jp": "ざんぎょう",
+    "romaji": "zangyoo",
+    "id": "lembur",
+    "bab": 10
+  },
+  {
+    "jp": "ざんぎょうします",
+    "romaji": "zangyooshimasu",
+    "id": "melakukan lembur",
+    "bab": 10
+  },
+  {
+    "jp": "じかん／～じかん",
+    "romaji": "～jikan",
+    "id": "… jam",
+    "bab": 10
+  },
+  {
+    "jp": "しょくじ",
+    "romaji": "shokuji",
+    "id": "makan",
+    "bab": 10
+  },
+  {
+    "jp": "すいようび／水よう日",
+    "romaji": "suiyoobi",
+    "id": "hari Rabu",
+    "bab": 10
+  },
+  {
+    "jp": "せんしゅう",
+    "romaji": "senshuu",
+    "id": "minggu lalu",
+    "bab": 10
+  },
+  {
+    "jp": "だいじょうぶ（な）",
+    "romaji": "daijoobu(na)",
+    "id": "oke/tidak apa-apa",
+    "bab": 10
+  },
+  {
+    "jp": "だめ（な）",
+    "romaji": "dame(na)",
+    "id": "tidak baik/tidak mungkin",
+    "bab": 10
+  },
+  {
+    "jp": "テニス",
+    "romaji": "tenisu",
+    "id": "tenis",
+    "bab": 10
+  },
+  {
+    "jp": "どう",
+    "romaji": "doo",
+    "id": "bagaimana",
+    "bab": 10
+  },
+  {
+    "jp": "ときどき",
+    "romaji": "tokidoki",
+    "id": "kadang-kadang",
+    "bab": 10
+  },
+  {
+    "jp": "どようび／土よう日",
+    "romaji": "doyoobi",
+    "id": "hari Sabtu",
+    "bab": 10
+  },
+  {
+    "jp": "なんじかん",
+    "romaji": "nan-jikan",
+    "id": "berapa jam",
+    "bab": 10
+  },
+  {
+    "jp": "にちようび／日よう日",
+    "romaji": "nichiyoobi",
+    "id": "hari Minggu",
+    "bab": 10
+  },
+  {
+    "jp": "びじゅつかん",
+    "romaji": "bijutsukan",
+    "id": "gedung kesenian/museum seni",
+    "bab": 10
+  },
+  {
+    "jp": "びょういん",
+    "romaji": "byooin",
+    "id": "rumah sakit",
+    "bab": 10
+  },
+  {
+    "jp": "もくようび／木よう日",
+    "romaji": "mokuyoobi",
+    "id": "hari Kamis",
+    "bab": 10
+  },
+  {
+    "jp": "ヨガ",
+    "romaji": "yoga",
+    "id": "yoga",
+    "bab": 10
+  },
+  {
+    "jp": "よてい",
+    "romaji": "yotee",
+    "id": "jadwal",
+    "bab": 10
+  },
+  {
+    "jp": "らいしゅう",
+    "romaji": "raishuu",
+    "id": "minggu depan",
+    "bab": 10
+  },
+  {
+    "jp": "アクション",
+    "romaji": "akushon",
+    "id": "laga (jenis/genre film)",
+    "bab": 11
+  },
+  {
+    "jp": "アニメ",
+    "romaji": "anime",
+    "id": "animasi",
+    "bab": 11
+  },
+  {
+    "jp": "いいます／言います",
+    "romaji": "iimasu",
+    "id": "berkata",
+    "bab": 11
+  },
+  {
+    "jp": "イーメール／Eメール",
+    "romaji": "ii-meeru",
+    "id": "e-mail (surat elektronik/surel)",
+    "bab": 11
+  },
+  {
+    "jp": "え",
+    "romaji": "e",
+    "id": "lukisan/gambar",
+    "bab": 11
+  },
+  {
+    "jp": "えいが",
+    "romaji": "eega",
+    "id": "film",
+    "bab": 11
+  },
+  {
+    "jp": "えき",
+    "romaji": "eki",
+    "id": "stasiun",
+    "bab": 11
+  },
+  {
+    "jp": "エスエフ／SF",
+    "romaji": "esuefu",
+    "id": "science fiction/ film fiksi ilmiah",
+    "bab": 11
+  },
+  {
+    "jp": "おてら（てら）",
+    "romaji": "otera(tera)",
+    "id": "kuil Buddha/wihara",
+    "bab": 11
+  },
+  {
+    "jp": "がいこくご",
+    "romaji": "gaikokugo",
+    "id": "bahasa asing",
+    "bab": 11
+  },
+  {
+    "jp": "かきます",
+    "romaji": "kakimasu",
+    "id": "menggambar",
+    "bab": 11
+  },
+  {
+    "jp": "ギター",
+    "romaji": "gitaa",
+    "id": "gitar",
+    "bab": 11
+  },
+  {
+    "jp": "コメディ",
+    "romaji": "komedhi",
+    "id": "komedi",
+    "bab": 11
+  },
+  {
+    "jp": "コンピューターゲーム",
+    "romaji": "konpyuutaa geemu",
+    "id": "permainan komputer/game",
+    "bab": 11
+  },
+  {
+    "jp": "サッカー",
+    "romaji": "sakkaa",
+    "id": "sepak bola",
+    "bab": 11
+  },
+  {
+    "jp": "ジャズ",
+    "romaji": "jazu",
+    "id": "jazz",
+    "bab": 11
+  },
+  {
+    "jp": "じゅうどう",
+    "romaji": "juudoo",
+    "id": "judo",
+    "bab": 11
+  },
+  {
+    "jp": "しゅみ",
+    "romaji": "shumi",
+    "id": "hobi",
+    "bab": 11
+  },
+  {
+    "jp": "しょうせつ",
+    "romaji": "shoosetsu",
+    "id": "novel",
+    "bab": 11
+  },
+  {
+    "jp": "スペインご",
+    "romaji": "Supeingo",
+    "id": "bahasa Spanyol",
+    "bab": 11
+  },
+  {
+    "jp": "スポーツ",
+    "romaji": "supootsu",
+    "id": "olahraga",
+    "bab": 11
+  },
+  {
+    "jp": "すもう",
+    "romaji": "sumoo",
+    "id": "sumo",
+    "bab": 11
+  },
+  {
+    "jp": "ぜんぜん",
+    "romaji": "zenzen",
+    "id": "sama sekali tidak",
+    "bab": 11
+  },
+  {
+    "jp": "だいすき（な）",
+    "romaji": "daisuki(na)",
+    "id": "sangat suka",
+    "bab": 11
+  },
+  {
+    "jp": "ダンス",
+    "romaji": "dansu",
+    "id": "dansa/tarian",
+    "bab": 11
+  },
+  {
+    "jp": "どくしょ(読書）",
+    "romaji": "dokusho",
+    "id": "membaca",
+    "bab": 11
+  },
+  {
+    "jp": "とります",
+    "romaji": "torimasu",
+    "id": "mengambil (foto)/memotret",
+    "bab": 11
+  },
+  {
+    "jp": "どんな",
+    "romaji": "donna",
+    "id": "yang bagaimana/yang seperti apa",
+    "bab": 11
+  },
+  {
+    "jp": "なります",
+    "romaji": "narimasu",
+    "id": "menjadi",
+    "bab": 11
+  },
+  {
+    "jp": "はなします／話します",
+    "romaji": "hanashimasu",
+    "id": "berbicara",
+    "bab": 11
+  },
+  {
+    "jp": "ひ／（日）",
+    "romaji": "hi",
+    "id": "hari",
+    "bab": 11
+  },
+  {
+    "jp": "フラメンコ",
+    "romaji": "furamenko",
+    "id": "(tarian) flamenco",
+    "bab": 11
+  },
+  {
+    "jp": "ポップス",
+    "romaji": "poppusu",
+    "id": "musik pop",
+    "bab": 11
+  },
+  {
+    "jp": "ホラー",
+    "romaji": "horaa",
+    "id": "horor",
+    "bab": 11
+  },
+  {
+    "jp": "やきゅう",
+    "romaji": "yakyuu",
+    "id": "bisbol",
+    "bab": 11
+  },
+  {
+    "jp": "ゆっくりします",
+    "romaji": "yukkurishimasu",
+    "id": "bersantai/beristirahat",
+    "bab": 11
+  },
+  {
+    "jp": "れんあい",
+    "romaji": "ren'ai",
+    "id": "percintaan/asmara",
+    "bab": 11
+  },
+  {
+    "jp": "ロック",
+    "romaji": "rokku",
+    "id": "musik rok",
+    "bab": 11
+  },
+  {
+    "jp": "いつか(五日）",
+    "romaji": "itsuka",
+    "id": "tanggal 5",
+    "bab": 12
+  },
+  {
+    "jp": "いっしょに",
+    "romaji": "issho ni",
+    "id": "bersama",
+    "bab": 12
+  },
+  {
+    "jp": "イベント",
+    "romaji": "ibento",
+    "id": "acara",
+    "bab": 12
+  },
+  {
+    "jp": "いろいろ（な）",
+    "romaji": "iroiro(na)",
+    "id": "macam-macam",
+    "bab": 12
+  },
+  {
+    "jp": "かいます／買います",
+    "romaji": "kaimasu",
+    "id": "membeli",
+    "bab": 12
+  },
+  {
+    "jp": "カレンダー",
+    "romaji": "karendaa",
+    "id": "kalender",
+    "bab": 12
+  },
+  {
+    "jp": "きゅう／九",
+    "romaji": "kyuu",
+    "id": "sembilan",
+    "bab": 12
+  },
+  {
+    "jp": "きょねん",
+    "romaji": "kyonen",
+    "id": "tahun lalu",
+    "bab": 12
+  },
+  {
+    "jp": "ゴールデンウィーク",
+    "romaji": "Gooruden-Wiiku",
+    "id": "(libur) Golden Week",
+    "bab": 12
+  },
+  {
+    "jp": "こくさい",
+    "romaji": "kokusai",
+    "id": "internasional",
+    "bab": 12
+  },
+  {
+    "jp": "ことし",
+    "romaji": "kotoshi",
+    "id": "tahun ini",
+    "bab": 12
+  },
+  {
+    "jp": "こんげつ",
+    "romaji": "kongetsu",
+    "id": "bulan ini",
+    "bab": 12
+  },
+  {
+    "jp": "コンテスト",
+    "romaji": "kontesuto",
+    "id": "kontes/pemilihan",
+    "bab": 12
+  },
+  {
+    "jp": "し／四",
+    "romaji": "shi",
+    "id": "empat",
+    "bab": 12
+  },
+  {
+    "jp": "しあい",
+    "romaji": "shiai",
+    "id": "pertandingan (olahraga)",
+    "bab": 12
+  },
+  {
+    "jp": "ジェイポップ／Jポップ",
+    "romaji": "jei-poppu",
+    "id": "J-pop",
+    "bab": 12
+  },
+  {
+    "jp": "せんげつ",
+    "romaji": "sengetsu",
+    "id": "bulan lalu",
+    "bab": 12
+  },
+  {
+    "jp": "たいこ",
+    "romaji": "taiko",
+    "id": "taiko",
+    "bab": 12
+  },
+  {
+    "jp": "たぶん",
+    "romaji": "tabun",
+    "id": "mungkin",
+    "bab": 12
+  },
+  {
+    "jp": "チケット",
+    "romaji": "chiketto",
+    "id": "tiket/karcis",
+    "bab": 12
+  },
+  {
+    "jp": "ちょっと",
+    "romaji": "chotto",
+    "id": "sebentar/sedikit/sedikit (susah)",
+    "bab": 12
+  },
+  {
+    "jp": "ついたち(一日）",
+    "romaji": "tsuitachi",
+    "id": "tanggal 1",
+    "bab": 12
+  },
+  {
+    "jp": "ディーブイディー／DVD",
+    "romaji": "dhiibuidhii",
+    "id": "DVD",
+    "bab": 12
+  },
+  {
+    "jp": "とおか(十日）",
+    "romaji": "tooka",
+    "id": "tanggal 10",
+    "bab": 12
+  },
+  {
+    "jp": "なな／七",
+    "romaji": "nana",
+    "id": "tujuh",
+    "bab": 12
+  },
+  {
+    "jp": "なのか(七日）",
+    "romaji": "nanoka",
+    "id": "tanggal 7/tujuh hari",
+    "bab": 12
+  },
+  {
+    "jp": "にち／～日",
+    "romaji": "～nichi",
+    "id": "tanggal/hari",
+    "bab": 12
+  },
+  {
+    "jp": "ねん／～年",
+    "romaji": "～nen",
+    "id": "tahun",
+    "bab": 12
+  },
+  {
+    "jp": "パーク",
+    "romaji": "paaku",
+    "id": "taman",
+    "bab": 12
+  },
+  {
+    "jp": "はつか(二十日）",
+    "romaji": "hatsuka",
+    "id": "tanggal 20",
+    "bab": 12
+  },
+  {
+    "jp": "ふつか(二日)",
+    "romaji": "futsuka",
+    "id": "tanggal 2/dua hari",
+    "bab": 12
+  },
+  {
+    "jp": "へえ",
+    "romaji": "hee",
+    "id": "benar ya!/ masa?",
+    "bab": 12
+  },
+  {
+    "jp": "ホール",
+    "romaji": "hooru",
+    "id": "aula",
+    "bab": 12
+  },
+  {
+    "jp": "ポスター",
+    "romaji": "posutaa",
+    "id": "poster",
+    "bab": 12
+  },
+  {
+    "jp": "ぼんさい",
+    "romaji": "bonsai",
+    "id": "bonsai",
+    "bab": 12
+  },
+  {
+    "jp": "まつり",
+    "romaji": "matsuri",
+    "id": "festival",
+    "bab": 12
+  },
+  {
+    "jp": "みっか(三日）",
+    "romaji": "mikka",
+    "id": "tanggal 3/tiga hari",
+    "bab": 12
+  },
+  {
+    "jp": "みんな",
+    "romaji": "minna",
+    "id": "semua/semuanya",
+    "bab": 12
+  },
+  {
+    "jp": "むいか(六日）",
+    "romaji": "muika",
+    "id": "tanggal 6/enam hari",
+    "bab": 12
+  },
+  {
+    "jp": "ようか(八日）",
+    "romaji": "yooka",
+    "id": "tanggal 8",
+    "bab": 12
+  },
+  {
+    "jp": "よっか(四日）",
+    "romaji": "yokka",
+    "id": "tanggal 4/empat hari",
+    "bab": 12
+  },
+  {
+    "jp": "らいげつ(来月）",
+    "romaji": "raigetsu",
+    "id": "bulan depan",
+    "bab": 12
+  },
+  {
+    "jp": "らいねん(来年）",
+    "romaji": "rainen",
+    "id": "tahun depan",
+    "bab": 12
+  },
+  {
+    "jp": "あいます／会います",
+    "romaji": "aimasu",
+    "id": "bertemu",
+    "bab": 13
+  },
+  {
+    "jp": "いくら",
+    "romaji": "ikura",
+    "id": "berapa (untuk harga)",
+    "bab": 13
+  },
+  {
+    "jp": "うんてんしゅ",
+    "romaji": "untenshu",
+    "id": "sopir",
+    "bab": 13
+  },
+  {
+    "jp": "えん／～えん／～円",
+    "romaji": "～en",
+    "id": "...yen",
+    "bab": 13
+  },
+  {
+    "jp": "おります",
+    "romaji": "orimasu",
+    "id": "turun dari kendaraan (contoh: kereta)",
+    "bab": 13
+  },
+  {
+    "jp": "きた／北",
+    "romaji": "kita",
+    "id": "utara",
+    "bab": 13
+  },
+  {
+    "jp": "きたぐち／北口",
+    "romaji": "kita-guchi",
+    "id": "pintu utara",
+    "bab": 13
+  },
+  {
+    "jp": "きゃく",
+    "romaji": "kyaku",
+    "id": "penumpang",
+    "bab": 13
+  },
+  {
+    "jp": "くうこう",
+    "romaji": "kuukoo",
+    "id": "bandara",
+    "bab": 13
+  },
+  {
+    "jp": "ぐち／～ぐち／～口",
+    "romaji": "～guchi",
+    "id": "pintu",
+    "bab": 13
+  },
+  {
+    "jp": "くるま",
+    "romaji": "kuruma",
+    "id": "mobil",
+    "bab": 13
+  },
+  {
+    "jp": "ここ",
+    "romaji": "koko",
+    "id": "sini",
+    "bab": 13
+  },
+  {
+    "jp": "さあ",
+    "romaji": "saa",
+    "id": "hmmm…",
+    "bab": 13
+  },
+  {
+    "jp": "せん／ぜん／千",
+    "romaji": "sen/zen",
+    "id": "ribu",
+    "bab": 13
+  },
+  {
+    "jp": "そして",
+    "romaji": "soshite",
+    "id": "lalu/kemudian",
+    "bab": 13
+  },
+  {
+    "jp": "ちかい",
+    "romaji": "chikai",
+    "id": "dekat",
+    "bab": 13
+  },
+  {
+    "jp": "ちかてつ",
+    "romaji": "chikatetsu",
+    "id": "kereta bawah tanah",
+    "bab": 13
+  },
+  {
+    "jp": "つかれます",
+    "romaji": "tsukaremasu",
+    "id": "lelah",
+    "bab": 13
+  },
+  {
+    "jp": "でんしゃ",
+    "romaji": "densha",
+    "id": "kereta listrik",
+    "bab": 13
+  },
+  {
+    "jp": "どうやって",
+    "romaji": "doo yatte",
+    "id": "bagaimana caranya",
+    "bab": 13
+  },
+  {
+    "jp": "とおい",
+    "romaji": "tooi",
+    "id": "jauh",
+    "bab": 13
+  },
+  {
+    "jp": "にし／西",
+    "romaji": "nishi",
+    "id": "barat",
+    "bab": 13
+  },
+  {
+    "jp": "にしぐち／西口",
+    "romaji": "nishi-guchi",
+    "id": "Pintu barat",
+    "bab": 13
+  },
+  {
+    "jp": "にもつ",
+    "romaji": "nimotsu",
+    "id": "barang bawaan",
+    "bab": 13
+  },
+  {
+    "jp": "のりば",
+    "romaji": "noriba",
+    "id": "tempat naik kendaraan (contoh: bus)",
+    "bab": 13
+  },
+  {
+    "jp": "のります",
+    "romaji": "norimasu",
+    "id": "naik (kendaraan)",
+    "bab": 13
+  },
+  {
+    "jp": "バイク",
+    "romaji": "baiku",
+    "id": "sepeda motor",
+    "bab": 13
+  },
+  {
+    "jp": "はじめて",
+    "romaji": "hajimete",
+    "id": "pertama kali",
+    "bab": 13
+  },
+  {
+    "jp": "バス",
+    "romaji": "basu",
+    "id": "bus",
+    "bab": 13
+  },
+  {
+    "jp": "バスてい",
+    "romaji": "basu-tee",
+    "id": "halte bus",
+    "bab": 13
+  },
+  {
+    "jp": "ひがし／東",
+    "romaji": "higashi",
+    "id": "timur",
+    "bab": 13
+  },
+  {
+    "jp": "ひがしぐち／東口",
+    "romaji": "higashi-guchi",
+    "id": "pintu timur",
+    "bab": 13
+  },
+  {
+    "jp": "ひこうき",
+    "romaji": "hikooki",
+    "id": "pesawat",
+    "bab": 13
+  },
+  {
+    "jp": "ひと",
+    "romaji": "hito",
+    "id": "orang",
+    "bab": 13
+  },
+  {
+    "jp": "ふべん（な）",
+    "romaji": "ｆuben(na)",
+    "id": "tidak praktis",
+    "bab": 13
+  },
+  {
+    "jp": "べんり（な）",
+    "romaji": "benri(na)",
+    "id": "praktis",
+    "bab": 13
+  },
+  {
+    "jp": "みなみ／南",
+    "romaji": "minami",
+    "id": "selatan",
+    "bab": 13
+  },
+  {
+    "jp": "みなみぐち／南口",
+    "romaji": "minami-guchi",
+    "id": "pintu selatan",
+    "bab": 13
+  },
+  {
+    "jp": "メール",
+    "romaji": "meeru",
+    "id": "surat elektronik (e-mail )",
+    "bab": 13
+  },
+  {
+    "jp": "らく（な）",
+    "romaji": "raku(na)",
+    "id": "mudah",
+    "bab": 13
+  },
+  {
+    "jp": "うしろ",
+    "romaji": "ushiro",
+    "id": "belakang",
+    "bab": 14
+  },
+  {
+    "jp": "ぎんこう",
+    "romaji": "ginkoo",
+    "id": "bank",
+    "bab": 14
+  },
+  {
+    "jp": "さいたま",
+    "romaji": "Saitama",
+    "id": "Saitama",
+    "bab": 14
+  },
+  {
+    "jp": "しずか（な）",
+    "romaji": "shizuka(na)",
+    "id": "tenang",
+    "bab": 14
+  },
+  {
+    "jp": "じんじゃ",
+    "romaji": "jinja",
+    "id": "kuil Shinto",
+    "bab": 14
+  },
+  {
+    "jp": "たかい",
+    "romaji": "takai",
+    "id": "tinggi",
+    "bab": 14
+  },
+  {
+    "jp": "とおり",
+    "romaji": "toori",
+    "id": "jalan",
+    "bab": 14
+  },
+  {
+    "jp": "となり",
+    "romaji": "tonari",
+    "id": "sebelah/samping",
+    "bab": 14
+  },
+  {
+    "jp": "にぎやか（な）",
+    "romaji": "nigiyaka(na)",
+    "id": "ramai/meriah",
+    "bab": 14
+  },
+  {
+    "jp": "はくぶつかん",
+    "romaji": "hakubutsukan",
+    "id": "museum",
+    "bab": 14
+  },
+  {
+    "jp": "ひくい",
+    "romaji": "hikui",
+    "id": "rendah",
+    "bab": 14
+  },
+  {
+    "jp": "ビル",
+    "romaji": "biru",
+    "id": "bangunan",
+    "bab": 14
+  },
+  {
+    "jp": "まえ",
+    "romaji": "mae",
+    "id": "depan",
+    "bab": 14
+  },
+  {
+    "jp": "みせ",
+    "romaji": "mise",
+    "id": "toko",
+    "bab": 14
+  },
+  {
+    "jp": "ゆうめい（な）",
+    "romaji": "yuumee(na)",
+    "id": "terkenal",
+    "bab": 14
+  },
+  {
+    "jp": "～まい",
+    "romaji": "～mai",
+    "id": "… lembar (satuan hitung untuk benda tipis)",
+    "bab": 15
+  },
+  {
+    "jp": "あげます",
+    "romaji": "agemasu",
+    "id": "memberi",
+    "bab": 15
+  },
+  {
+    "jp": "え",
+    "romaji": "e",
+    "id": "Oh! / Apa?",
+    "bab": 15
+  },
+  {
+    "jp": "えはがき",
+    "romaji": "ehagaki",
+    "id": "kartu pos bergambar",
+    "bab": 15
+  },
+  {
+    "jp": "おしゃれ（な）",
+    "romaji": "oshare(na)",
+    "id": "modis",
+    "bab": 15
+  },
+  {
+    "jp": "おみやげ（みやげ）",
+    "romaji": "omiyage(miyage)",
+    "id": "oleh-oleh/buah tangan",
+    "bab": 15
+  },
+  {
+    "jp": "かさ",
+    "romaji": "kasa",
+    "id": "payung",
+    "bab": 15
+  },
+  {
+    "jp": "かっこいい",
+    "romaji": "kakkoii",
+    "id": "keren",
+    "bab": 15
+  },
+  {
+    "jp": "くつ",
+    "romaji": "kutsu",
+    "id": "sepatu",
+    "bab": 15
+  },
+  {
+    "jp": "さいふ",
+    "romaji": "saifu",
+    "id": "dompet",
+    "bab": 15
+  },
+  {
+    "jp": "さつ／～さつ",
+    "romaji": "～satsu",
+    "id": "… jilid (satuan untuk menghitung buku)",
+    "bab": 15
+  },
+  {
+    "jp": "たくさん",
+    "romaji": "takusan",
+    "id": "banyak",
+    "bab": 15
+  },
+  {
+    "jp": "たんじょうび／(たんじょう日)",
+    "romaji": "tanjoobi",
+    "id": "hari ulang tahun",
+    "bab": 15
+  },
+  {
+    "jp": "チョコレート",
+    "romaji": "chokoreeto",
+    "id": "cokelat",
+    "bab": 15
+  },
+  {
+    "jp": "ティーカップ",
+    "romaji": "thiikappu",
+    "id": "cangkir teh",
+    "bab": 15
+  },
+  {
+    "jp": "ティーシャツ／Tシャツ",
+    "romaji": "thii-shatsu",
+    "id": "baju kaus",
+    "bab": 15
+  },
+  {
+    "jp": "でんしじしょ",
+    "romaji": "denshi-jisho",
+    "id": "kamus elektronik",
+    "bab": 15
+  },
+  {
+    "jp": "ノート",
+    "romaji": "nooto",
+    "id": "buku catatan",
+    "bab": 15
+  },
+  {
+    "jp": "バッグ",
+    "romaji": "baggu",
+    "id": "tas",
+    "bab": 15
+  },
+  {
+    "jp": "はな",
+    "romaji": "hana",
+    "id": "bunga",
+    "bab": 15
+  },
+  {
+    "jp": "ハンカチ",
+    "romaji": "hankachi",
+    "id": "saputangan",
+    "bab": 15
+  },
+  {
+    "jp": "ビデオカメラ",
+    "romaji": "bideo-kamera",
+    "id": "kamera video",
+    "bab": 15
+  },
+  {
+    "jp": "ふく",
+    "romaji": "fuku",
+    "id": "pakaian",
+    "bab": 15
+  },
+  {
+    "jp": "プレゼント",
+    "romaji": "purezento",
+    "id": "hadiah",
+    "bab": 15
+  },
+  {
+    "jp": "ぼうし",
+    "romaji": "booshi",
+    "id": "topi",
+    "bab": 15
+  },
+  {
+    "jp": "ほしい",
+    "romaji": "hoshii",
+    "id": "ingin",
+    "bab": 15
+  },
+  {
+    "jp": "マウス",
+    "romaji": "mausu",
+    "id": "tetikus/mouse (untuk komputer)",
+    "bab": 15
+  },
+  {
+    "jp": "もらいます",
+    "romaji": "moraimasu",
+    "id": "menerima",
+    "bab": 15
+  },
+  {
+    "jp": "ああ",
+    "romaji": "aa",
+    "id": "ah",
+    "bab": 16
+  },
+  {
+    "jp": "あお",
+    "romaji": "ao",
+    "id": "biru",
+    "bab": 16
+  },
+  {
+    "jp": "あか",
+    "romaji": "aka",
+    "id": "merah",
+    "bab": 16
+  },
+  {
+    "jp": "あそこ",
+    "romaji": "asoko",
+    "id": "(di) sana",
+    "bab": 16
+  },
+  {
+    "jp": "あの",
+    "romaji": "ano",
+    "id": "__itu",
+    "bab": 16
+  },
+  {
+    "jp": "いろ",
+    "romaji": "iro",
+    "id": "warna",
+    "bab": 16
+  },
+  {
+    "jp": "オレンジ",
+    "romaji": "orenji",
+    "id": "oranye",
+    "bab": 16
+  },
+  {
+    "jp": "きいろ",
+    "romaji": "kiiro",
+    "id": "kuning",
+    "bab": 16
+  },
+  {
+    "jp": "きます",
+    "romaji": "kimasu",
+    "id": "memakai pakaian (blus/atasan)",
+    "bab": 16
+  },
+  {
+    "jp": "くつした",
+    "romaji": "kutsushita",
+    "id": "kaus kaki",
+    "bab": 16
+  },
+  {
+    "jp": "グレー",
+    "romaji": "guree",
+    "id": "abu-abu",
+    "bab": 16
+  },
+  {
+    "jp": "くろ",
+    "romaji": "kuro",
+    "id": "hitam",
+    "bab": 16
+  },
+  {
+    "jp": "コート",
+    "romaji": "kooto",
+    "id": "mantel/jas panjang",
+    "bab": 16
+  },
+  {
+    "jp": "ジーンズ",
+    "romaji": "jiinzu",
+    "id": "denim/jeans",
+    "bab": 16
+  },
+  {
+    "jp": "しろ",
+    "romaji": "shiro",
+    "id": "putih",
+    "bab": 16
+  },
+  {
+    "jp": "スーツ",
+    "romaji": "suutsu",
+    "id": "setelan",
+    "bab": 16
+  },
+  {
+    "jp": "スカート",
+    "romaji": "sukaato",
+    "id": "rok",
+    "bab": 16
+  },
+  {
+    "jp": "スカーフ",
+    "romaji": "sukaafu",
+    "id": "syal",
+    "bab": 16
+  },
+  {
+    "jp": "すてき（な）",
+    "romaji": "suteki(na)",
+    "id": "bagus",
+    "bab": 16
+  },
+  {
+    "jp": "そこ",
+    "romaji": "soko",
+    "id": "situ",
+    "bab": 16
+  },
+  {
+    "jp": "その",
+    "romaji": "sono",
+    "id": "itu",
+    "bab": 16
+  },
+  {
+    "jp": "それ",
+    "romaji": "sore",
+    "id": "itu",
+    "bab": 16
+  },
+  {
+    "jp": "ちゃいろ",
+    "romaji": "chairo",
+    "id": "(warna) cokelat",
+    "bab": 16
+  },
+  {
+    "jp": "てんいん",
+    "romaji": "ten'in",
+    "id": "pegawai toko",
+    "bab": 16
+  },
+  {
+    "jp": "どれ",
+    "romaji": "dore",
+    "id": "yang mana",
+    "bab": 16
+  },
+  {
+    "jp": "にあいます",
+    "romaji": "niaimasu",
+    "id": "cocok/serasi",
+    "bab": 16
+  },
+  {
+    "jp": "ネクタイ",
+    "romaji": "nekutai",
+    "id": "dasi",
+    "bab": 16
+  },
+  {
+    "jp": "はきます",
+    "romaji": "hakimasu",
+    "id": "memakai (sesuatu pada kaki)",
+    "bab": 16
+  },
+  {
+    "jp": "パンツ",
+    "romaji": "pantsu",
+    "id": "celana",
+    "bab": 16
+  },
+  {
+    "jp": "ピンク",
+    "romaji": "pinku",
+    "id": "merah muda/merah jambu/pink",
+    "bab": 16
+  },
+  {
+    "jp": "ほか",
+    "romaji": "hoka",
+    "id": "yang lain",
+    "bab": 16
+  },
+  {
+    "jp": "まん／万",
+    "romaji": "man",
+    "id": "puluhan ribu",
+    "bab": 16
+  },
+  {
+    "jp": "みどり",
+    "romaji": "midori",
+    "id": "hijau",
+    "bab": 16
+  },
+  {
+    "jp": "よく",
+    "romaji": "yoku",
+    "id": "dengan baik",
+    "bab": 16
+  },
+  {
+    "jp": "ワンピース",
+    "romaji": "wanpiisu",
+    "id": "baju terusan",
+    "bab": 16
+  },
+  {
+    "jp": "あそびます",
+    "romaji": "asobimasu",
+    "id": "bermain",
+    "bab": 17
+  },
+  {
+    "jp": "いちばん",
+    "romaji": "ichiban",
+    "id": "nomor satu/yang paling ….",
+    "bab": 17
+  },
+  {
+    "jp": "うーん",
+    "romaji": "uun",
+    "id": "hmmmm",
+    "bab": 17
+  },
+  {
+    "jp": "うれしい",
+    "romaji": "ureshii",
+    "id": "senang/bahagia",
+    "bab": 17
+  },
+  {
+    "jp": "おもしろい",
+    "romaji": "omoshiroi",
+    "id": "menarik",
+    "bab": 17
+  },
+  {
+    "jp": "ショッピングセンター",
+    "romaji": "shoppingu-sentaa",
+    "id": "pusat perbelanjaan",
+    "bab": 17
+  },
+  {
+    "jp": "そうじ",
+    "romaji": "sooji",
+    "id": "pembersihan",
+    "bab": 17
+  },
+  {
+    "jp": "たいへん（な）",
+    "romaji": "taihen(na)",
+    "id": "(pekerjaan) berat/sulit",
+    "bab": 17
+  },
+  {
+    "jp": "たのしい",
+    "romaji": "tanoshii",
+    "id": "menyenangkan",
+    "bab": 17
+  },
+  {
+    "jp": "どこにも",
+    "romaji": "doko ni mo",
+    "id": "di mana pun",
+    "bab": 17
+  },
+  {
+    "jp": "とても",
+    "romaji": "totemo",
+    "id": "sangat",
+    "bab": 17
+  },
+  {
+    "jp": "なにも",
+    "romaji": "nani mo",
+    "id": "apa-apa",
+    "bab": 17
+  },
+  {
+    "jp": "バーベキュー",
+    "romaji": "baabekyuu",
+    "id": "barbekyu",
+    "bab": 17
+  },
+  {
+    "jp": "はなし(話）",
+    "romaji": "hanashi",
+    "id": "cerita",
+    "bab": 17
+  },
+  {
+    "jp": "はなび",
+    "romaji": "hanabi",
+    "id": "kembang api",
+    "bab": 17
+  },
+  {
+    "jp": "はなびたいかい",
+    "romaji": "hanabi-taikai",
+    "id": "festival kembang api",
+    "bab": 17
+  },
+  {
+    "jp": "まご",
+    "romaji": "mago",
+    "id": "cucu",
+    "bab": 17
+  },
+  {
+    "jp": "もう",
+    "romaji": "moo",
+    "id": "sudah",
+    "bab": 17
+  },
+  {
+    "jp": "アイスクリーム",
+    "romaji": "aisukuriimu",
+    "id": "es krim",
+    "bab": 18
+  },
+  {
+    "jp": "あさくさ",
+    "romaji": "Asakusa",
+    "id": "Asakusa",
+    "bab": 18
+  },
+  {
+    "jp": "かぶき",
+    "romaji": "kabuki",
+    "id": "kabuki (teater tradisional Jepang)",
+    "bab": 18
+  },
+  {
+    "jp": "きもの",
+    "romaji": "kimono",
+    "id": "kimono (baju tradisional Jepang)",
+    "bab": 18
+  },
+  {
+    "jp": "しつもん",
+    "romaji": "shitsumon",
+    "id": "pertanyaan",
+    "bab": 18
+  },
+  {
+    "jp": "しぶや",
+    "romaji": "Shibuya",
+    "id": "Shibuya",
+    "bab": 18
+  },
+  {
+    "jp": "しんかんせん",
+    "romaji": "shinkansen",
+    "id": "shinkansen",
+    "bab": 18
+  },
+  {
+    "jp": "それから",
+    "romaji": "sorekara",
+    "id": "lalu",
+    "bab": 18
+  },
+  {
+    "jp": "つぎ",
+    "romaji": "tｓugi",
+    "id": "selanjutnya",
+    "bab": 18
+  },
+  {
+    "jp": "とうきょうタワー／東京タワー",
+    "romaji": "Tookyoo-Tawaa",
+    "id": "Menara Tokyo",
+    "bab": 18
+  },
+  {
+    "jp": "ながさき",
+    "romaji": "Nagasaki",
+    "id": "Nagasaki",
+    "bab": 18
+  },
+  {
+    "jp": "やすみます／休みます",
+    "romaji": "yasumimasu",
+    "id": "berlibur",
+    "bab": 18
+  },
+  {
+    "jp": "よこはま",
+    "romaji": "Yokohama",
+    "id": "Yokohama",
+    "bab": 18
+  },
+  {
+    "jp": "りょこう",
+    "romaji": "ryokoo",
+    "id": "perjalanan",
+    "bab": 18
+  }
+]
